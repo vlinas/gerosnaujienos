@@ -8,7 +8,7 @@ class SiteNavi extends React.Component {
     return (
       <nav className="navbar navbar-expand navbar-dark flex-column flex-md-row menu-bg">
         <div className="container">
-          <Link className="text-center" to="/">
+          <Link className="text-center desktop-logo" to="/">
           <img src="../img/logo.png" className="menu-logo"></img>
             {/* <h1 className="navbar-brand mb-0">{title}</h1> */}
           </Link>

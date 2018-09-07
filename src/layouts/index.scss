@@ -19,8 +19,15 @@
 }
 
 .articles {
-    padding: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 70px;
+    padding-top: 0px !important;
 }
+
+// .desktop-logo {
+//     display: none;
+// }
 
 body {
     background: #E2F5FE;
@@ -70,6 +77,14 @@ body {
 .menu-logo {
     max-width: 70px;
     margin-top: 20px;
+}
+
+.menu-logo:hover {
+    animation: pulse .5s infinite;
+}
+
+.mobile-logo {
+    display: none;
 }
 
 .articles .article-wrap {
@@ -200,8 +215,35 @@ body {
 
 @media only screen and (max-width: 480px) {
 
+    .articles .article-wrap .page-header h1 {
+        font-size: 22px;
+    }
+
+    .articles .article-wrap .page-header time {
+        font-size: 15px !important;
+    }
+
+    .articles .article-wrap .page-content p {
+        font-size: 15px !important;
+    }
+
+    .mobile-logo {
+        display: block;
+        max-width: 80px;
+        margin: auto;
+    }
+
+    .nav-item {
+        width: 33%;
+    }
+
+    .home-container {
+        margin-top: 25px;
+    }
+    
+
     .top-title {
-        font-size: 40px;
+        font-size: 37px;
     }
 
     .post-img {
@@ -228,13 +270,14 @@ body {
 
        .navbar-nav-scroll {
            margin-left: 0px;
+           width: 100%;
        }
 
     .navbar {
         z-index: 1;
         border-top: 1px solid #eceff1;
     padding: 0px;
-    height: 45px;
+    height: 39px;
     }
 
     .navbar-dark .navbar-brand {
@@ -243,6 +286,7 @@ body {
 
     .navbar-expand .navbar-nav .nav-link {
         font-size: 11px;
+        padding: 10px;
     }
 
     .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
@@ -252,6 +296,7 @@ body {
 
     .navbar-nav {
         text-align: center;
+        width: 100%;
     }
 }
 
