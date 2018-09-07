@@ -1,0 +1,256 @@
+.menu-bg {
+    background-color: white;
+    border-bottom: 1px solid #eceff1;
+    height: 80px;
+}
+
+.profile-img {
+    border-radius: 50%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+
+.post-img {
+    max-width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.articles {
+    padding: 0px !important;
+}
+
+body {
+    background: #E2F5FE;
+}
+.top-title {
+    color: #b5dcef;
+    font-size: 70px;
+}
+
+.top-text {
+    color: #7fa9bd;
+}
+
+.home-container {
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+
+.articles .article-wrap .page-header {
+    margin-bottom: -10px !important;
+}
+
+.post-text h2 {
+    margin-bottom: 0px !important;
+    font-size: 22px;
+    font-weight: 700;
+    color: #272727;
+}
+
+.post-text h2:hover {
+    text-decoration: underline;
+    color: purple;
+}
+
+.post-text p {
+    margin-top: 10px !important;
+}
+
+.post-text h4 {
+    font-size: 15px;
+    font-weight: 400;
+    color: grey;
+    font-style: italic;
+}
+
+.menu-logo {
+    max-width: 70px;
+    margin-top: 20px;
+}
+
+.articles .article-wrap {
+    background: white;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.articles .article-wrap .page-header h1 {
+    color: #333333 !important;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.articles .article-wrap .page-header time {
+    font-size: 17px !important;
+}
+
+.influencer-name {
+    text-transform: uppercase;
+
+}
+
+.btn-aflete {
+    text-transform: uppercase;
+    color: black;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.btn-aflete:hover {
+    text-decoration: underline;
+    color: black;
+    transition: 0.3s;
+}
+
+.btn:not(:disabled):not(.disabled):active, .btn:not(:disabled):not(.disabled).active {
+    box-shadow: none;
+}
+
+.social-icons {
+    display: inline-flex;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-top: 10px;
+}
+
+.social-icons li {
+    list-style-type: none;
+    margin-right: 15px;
+}
+
+.social-icons .fa {
+    color: #333333;
+    font-size: 25px;
+}
+
+.social-icons .fa:hover {
+    animation: pulse 0.5s;
+}
+
+.section-border {
+    border-top: 1px solid #eceff1;
+    border-bottom: 1px solid #eceff1;
+}
+
+.mb-0 {
+    color: black;
+}
+
+.nav-item {
+    margin-right: 5px;
+}
+
+.navbar-nav-scroll {
+    margin-left: 50px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color: black;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+    color: black;
+}
+
+.navbar-nav {
+    .active {
+        border-bottom: 2px solid #ffbb00;
+} 
+}
+
+.home-product {
+    box-shadow: rgba(29,29,31,0.13) 0 10px 60px;
+    padding: 0px;
+    border-radius: 7px;
+}
+
+.home-product img {
+    border-radius: 7px;
+    margin-bottom: 0px;
+}
+
+.bottom {
+    padding: 20px 15px;
+    text-align: left;
+}
+
+.home-product:hover {
+    animation: pulse 0.5s;
+}
+
+@media only screen and (min-width: 992px) {
+.col-lg-4 {
+    flex: 0 0 33.33333%;
+    max-width: 31%;
+    margin: 8px;
+}
+}
+
+
+@media only screen and (max-width: 480px) {
+
+    .top-title {
+        font-size: 40px;
+    }
+
+    .post-img {
+        max-width: none;
+        float: right;
+        margin-left: 0px;
+    }
+
+    .post-img img {
+        margin-bottom: 0px !important;
+    }
+
+    section {
+        padding-bottom: 100px;
+    }
+
+    .top-section {
+        padding-top: 20px;
+    }
+
+       .menu-logo {
+           display: none;
+       } 
+
+       .navbar-nav-scroll {
+           margin-left: 0px;
+       }
+
+    .navbar {
+        z-index: 1;
+        border-top: 1px solid #eceff1;
+    padding: 0px;
+    height: 45px;
+    }
+
+    .navbar-dark .navbar-brand {
+        display: none;
+    }
+
+    .navbar-expand .navbar-nav .nav-link {
+        font-size: 11px;
+    }
+
+    .navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+        color: black;
+        background: #ffffff14;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+}
+
