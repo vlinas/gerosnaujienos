@@ -41,6 +41,7 @@ body {
 
 .articles .article-wrap .page-header {
     margin-bottom: -10px !important;
+    border-bottom: none !important;
 }
 
 .post-text h2 {
@@ -52,7 +53,7 @@ body {
 
 .post-text h2:hover {
     text-decoration: underline;
-    color: purple;
+    color: #99c3d8;
 }
 
 .post-text p {
