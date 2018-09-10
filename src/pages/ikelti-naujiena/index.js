@@ -42,7 +42,7 @@ class Home extends React.Component {
             <div className="col-lg-12">
             <h1 className="top-title">Įkelti Naujieną</h1>
               <div className="naujienos-forma">
-                <form name="naujiena" method="POST" netlify>
+                <form name="naujiena" method="POST" data-netlify="true">
                   <div class="form-group">
                     <label for="formGroupExampleInput">Vardas</label>
                     <input type="text" class="form-control" name="vardas" placeholder="Vardenis"></input>
@@ -53,7 +53,7 @@ class Home extends React.Component {
                   </div>
                   <div class="form-group">
                     <label for="formGroupExampleInput2">Nuoroda į straipsnį</label>
-                    <input type="url" class="form-control" name="nuoroda" placeholder="https://portalas.lt/..."></input>
+                    <input type="text" class="form-control" name="nuoroda" placeholder="https://portalas.lt/..."></input>
                   </div>
                   <div class="form-group">
                     <label for="formGroupExampleInput2">Pranešimas</label>
