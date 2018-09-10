@@ -40,6 +40,15 @@ export default class HTML extends React.Component {
             sizes="180x180"
           />
           <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+          <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(function() {
+              OneSignal.init({
+                appId: "e4c5a1d0-2455-4b93-b8ed-c4b4a1d52e7c",
+              });
+            });
+          </script>
         </head>
         <body>
           <div
