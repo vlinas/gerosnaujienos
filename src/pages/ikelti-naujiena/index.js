@@ -8,7 +8,7 @@ class Home extends React.Component {
   render() {
     const pathPrefix =
       process.env.NODE_ENV === 'development' ? '' : __PATH_PREFIX__
-    const title = 'Krissy'
+    const title = 'Įkelti Naujieną'
     return (
       <div>
         <Helmet
@@ -36,11 +36,34 @@ class Home extends React.Component {
           ]}
         />
 
-        <section className="top-section">
+        <section className="top-section form-section">
           <div className="container">
           <div className="row">
-            <div className="col-lg-12 text-center">
-            <h1>Jau greitai!</h1>
+            <div className="col-lg-12">
+            <h1 className="top-title">Įkelti Naujieną</h1>
+              <div className="naujienos-forma">
+                <form name="naujiena" method="POST" netlify>
+                  <div class="form-group">
+                    <label for="formGroupExampleInput">Vardas</label>
+                    <input type="text" class="form-control" name="vardas" placeholder="Vardenis"></input>
+                  </div>
+                  <div class="form-group">
+                    <label for="formGroupExampleInput2">El. Paštas</label>
+                    <input type="email" class="form-control" name="emailas" placeholder="vardenis@gmail.com"></input>
+                  </div>
+                  <div class="form-group">
+                    <label for="formGroupExampleInput2">Nuoroda į straipsnį</label>
+                    <input type="url" class="form-control" name="nuoroda" placeholder="https://portalas.lt/..."></input>
+                  </div>
+                  <div class="form-group">
+                    <label for="formGroupExampleInput2">Pranešimas</label>
+                    <textarea class="form-control" id="exampleTextarea" rows="3" name="zinute" placeholder="Jūsų žinutė mums"></textarea>
+                  </div>
+                  <div class="form-group">
+                    <button type="submit" className="btn btn-primary formos-btn">Siųsti naujieną</button>
+                  </div>
+                </form>
+              </div>
             </div>
           </div>
           </div>

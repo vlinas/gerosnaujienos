@@ -18,11 +18,47 @@
     margin-left: 30px;
 }
 
+.naujienos-forma {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 550px;
+    margin: auto;
+}
+
 .articles {
     padding-left: 0px !important;
     padding-right: 0px !important;
     padding-bottom: 70px;
     padding-top: 0px !important;
+}
+
+.form-section {
+    padding-top: 50px;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #fb8a11;
+    box-shadow: none;
+}
+
+.form-section .top-title {
+    margin-bottom: 25px;
+}
+
+.formos-btn {
+    width: 100%;
+    font-weight: 500;
+    font-size: 18px;
+    background: #f98a2a;
+    border: none;
+    padding: 10px;
+}
+
+.formos-btn:hover {
+    background: #de7b24;
 }
 
 // .desktop-logo {
@@ -35,6 +71,7 @@ body {
 .top-title {
     color: #b5dcef;
     font-size: 70px;
+    text-align: center;
 }
 
 .top-text {

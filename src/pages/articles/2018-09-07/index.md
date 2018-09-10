@@ -25,7 +25,7 @@ path: "/2018-09-07/"
 <div class="post-item">
   <a href="http://kauno.diena.lt/naujienos/lietuva/salies-pulsas/ideja-lietuvai-plecia-ribas-prisijungti-gali-kiekvienas-879556" target="_blank">
     <div class="post-img">
-      <img src="http://img2.diena.lt/sites/default/files/styles/940x000/public/Vilniausdiena/Vartotoju%20zona/V.Oskominiene%40diena.lt/cache_1000x563_size16x9_5a02f0d7f2364_ideja-lietuvai_img.jpg?itok=T-CiCGLX">
+      <img src="https://img2.diena.lt/sites/default/files/styles/940x000/public/Vilniausdiena/Vartotoju%20zona/V.Oskominiene%40diena.lt/cache_1000x563_size16x9_5a02f0d7f2364_ideja-lietuvai_img.jpg?itok=T-CiCGLX">
     </div>
     </a>
   <div class="post-text">

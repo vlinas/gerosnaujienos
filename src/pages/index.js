@@ -54,7 +54,6 @@ class profile extends React.Component {
               <img src="../img/logo.png" className="mobile-logo"></img>
             <h1 className="top-title">GerosNaujienos.lt</h1>
             <p className="top-text">Top 5 geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną 19val.</p>
-            <div className='onesignal-customlink-container'></div>
             </div>
           </div>
           </div>
