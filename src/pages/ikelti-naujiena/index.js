@@ -42,22 +42,22 @@ class Home extends React.Component {
             <div className="col-lg-12">
             <h1 className="top-title">Įkelti Naujieną</h1>
               <div className="naujienos-forma">
-                <form name="naujiena" method="POST" data-netlify="true" action="/">
+                <form name="naujiena" method="POST" action="/" data-netlify="true">
                   <div class="form-group">
                     <label for="formGroupExampleInput">Vardas</label>
-                    <input type="text" class="form-control" name="vardas" placeholder="Vardenis"></input>
+                    <input type="text" class="form-control" name="name" placeholder="Vardenis"></input>
                   </div>
                   <div class="form-group">
                     <label for="formGroupExampleInput2">El. Paštas</label>
-                    <input type="email" class="form-control" name="emailas" placeholder="vardenis@gmail.com"></input>
+                    <input type="email" class="form-control" name="email" placeholder="vardenis@gmail.com"></input>
                   </div>
                   <div class="form-group">
                     <label for="formGroupExampleInput2">Nuoroda į straipsnį</label>
-                    <input type="text" class="form-control" name="nuoroda" placeholder="https://portalas.lt/..."></input>
+                    <input type="text" class="form-control" name="url" placeholder="https://portalas.lt/..."></input>
                   </div>
                   <div class="form-group">
                     <label for="formGroupExampleInput2">Pranešimas</label>
-                    <textarea class="form-control" id="exampleTextarea" rows="3" name="zinute" placeholder="Jūsų žinutė mums"></textarea>
+                    <textarea class="form-control" rows="3" name="message" placeholder="Jūsų žinutė mums"></textarea>
                   </div>
                   <div class="form-group">
                     <button type="submit" className="btn btn-primary formos-btn">Siųsti naujieną</button>
