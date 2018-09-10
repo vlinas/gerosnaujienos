@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'GerosNaujienos.lt',
     description: 'Top 5 geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną 19val.',
-    siteUrl: 'https://gerosnaujienos.lt/',
+    siteUrl: 'https://gerosnaujienos.lt',
     author: 'GerosNaujienos.lt',
     twitter: 'GerosNaujienos.lt',
     adsense: '',
