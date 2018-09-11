@@ -31,7 +31,7 @@ path: "/2018-09-10/"
     </a>
   <div class="post-text">
     <a href="https://www.15min.lt/verslas/naujiena/finansai/rugpjuti-fiksuota-defliacija-0-4-proc-mazejo-kainos-662-1027266" target="_blank">
-      <h2>Rugpjūtį fiksuota defliacija – 0,4 proc. mažėjo kainos</a>
+      <h2>Rugpjūtį fiksuota defliacija – 0,4 proc. mažėjo kainos</h2>
       </a>
     <p>Lietuvoje rugpjūčio mėnesį buvo 0,4 proc. mėnesio defliacija. Vartojimo prekių ir paslaugų kainos šalyje mažėja antrą mėnesį iš eilės.</p>
     <h4><i class="fa fa-globe"></i> 15min.lt</h4>
