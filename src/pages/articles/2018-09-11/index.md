@@ -1,38 +1,22 @@
 ---
-title: "Antradienis - Rugsėjo 11 d."
-date: "2018-09-11"
+title: "Pirmadienis - Rugsėjo 17 d."
+date: "2018-09-17"
 layout: post
-path: "/2018-09-11/"
+path: "/2018-09-17/"
 ---
 
+
 <div class="post-item">
-  <a href="https://www.15min.lt/verslas/naujiena/kvadratinis-metras/nekilnojamasis-turtas/2018-ieji-statybose-didesnes-pajamos-ir-atlyginimu-suoliai-973-1027774?copied" target="_blank">
+  <a href="https://www.15min.lt/24sek/naujiena/europa/bilietas-i-kinija-ranka-pasiekiamas-lietuva-nyderlandai-874-1030980" target="_blank">
     <div class="post-img">
-      <img src="https://s2.15min.lt/static/cache/OTI1eDYxMCwsNzIxODg4LG9yaWdpbmFsLCxpZD00MDc5MzQyJmRhdGU9MjAxOCUyRjA3JTJGMzAsNjkwNjI2MTc=/zged7128-5b5f1965a356f.jpg">
+      <img src="https://s2.15min.lt/static/cache/OTI1eDYxMCw1MzF4NDgyLDcyMTg4OCxvcmlnaW5hbCwsaWQ9NDE3OTcxNCZkYXRlPTIwMTglMkYwOSUyRjE3LDI5NTI4NTk0MzI=/galimybe-uzsitikrinti-vieta-pasaulio-cempionate-lietuva-nyderlandai-5b9ff6daeaaa8.jpg">
     </div>
     </a>
   <div class="post-text">
-    <a href="https://www.15min.lt/verslas/naujiena/kvadratinis-metras/nekilnojamasis-turtas/2018-ieji-statybose-didesnes-pajamos-ir-atlyginimu-suoliai-973-1027774?copied" target="_blank">
-      <h2>2018-ieji statybose – didesnės pajamos ir atlyginimų šuoliai</h2>
-    </a>
-    <p>Valstybinė mokesčių inspekcija (VMI) pastebi, kad šiemet statybų sektoriaus įmonės ne tik deklaruoja didesnes pajamas, bet ir pradeda mokėti darbuotojams didesnius atlyginimus. 2018 metų I pusmetį, palyginus su 2017 metų I pusmečiu, kontroliuojamų statybų sektoriaus įmonių deklaruojamos pajamos padidėjo 34 mln. eurų, o vidutinis darbo užmokestis per tą patį laikotarpį išaugo 15 proc.</p>
-    <h4><i class="fa fa-globe"></i> 15min.lt</h4>
-  </div>
-</div>
-
-<hr>
-
-<div class="post-item">
-  <a href="https://www.15min.lt/gazas/naujiena/saugukelyje-lt/jaunieji-lietuvos-dviratininkai-geriausiu-europos-komandu-desimtuke-787-1027146" target="_blank">
-    <div class="post-img">
-      <img src="https://s2.15min.lt/static/cache/OTI1eDYxMCwsNzUzNDU4LG9yaWdpbmFsLCxpZD00MTYwOTcyJmRhdGU9MjAxOCUyRjA5JTJGMTAsMTAzMzk4OTkz/jaunieji-lietuvos-dviratininkai-europos-saugaus-eismo-konkurse-uzeme-10-aja-vieta-5b9618cf1022c.jpg">
-    </div>
-    </a>
-  <div class="post-text">
-    <a href="https://www.15min.lt/gazas/naujiena/saugukelyje-lt/jaunieji-lietuvos-dviratininkai-geriausiu-europos-komandu-desimtuke-787-1027146" target="_blank">
-      <h2>Jaunieji Lietuvos dviratininkai – geriausių Europos komandų dešimtuke</h2>
+    <a href="https://www.15min.lt/24sek/naujiena/europa/bilietas-i-kinija-ranka-pasiekiamas-lietuva-nyderlandai-874-1030980" target="_blank">
+      <h2>Bilietas į Kiniją – kišenėje: du pratęsimus išgyvenusi Lietuva palaužė Nyderlandus</h2>
       </a>
-    <p>Budapešte pasibaigusiame 33-iajame Europos saugaus eismo konkurse  ETEC 2018 Lietuvos automobilininkų sąjungos (LAS) jaunųjų dviratininkų (12-14 metų moksleivių) komanda užėmė 10-ą vietą.</p>
+    <p>Dainiaus Adomaičio rinktinė žais pasaulio čempionate Kinijoje. Tai paaiškėjo pirmadienį Vilniuje, kur apytuštėje „Siemens“ arenoje Lietuvos krepšininkai tik po itin įtemptos kovos ir dviejų pratęsimų 95:93 (24:18, 15:23, 18:16, 12:10, 11:8) įveikė Nyderlandus bei užsitikrino kelialapį į planetos pirmenybes.</p>
     <h4><i class="fa fa-globe"></i> 15min.lt</h4>
   </div>
 </div>
@@ -40,17 +24,34 @@ path: "/2018-09-11/"
 <hr>
 
 <div class="post-item">
-  <a href="https://www.vz.lt/verslo-aplinka/2018/09/11/sektoriu-lyderiai-2018-paskelbtos-ir-apdovanotos-9-ios-stipriausios-imones" target="_blank">
+  <a href="https://www.15min.lt/deuce/naujiena/profesionalus-sportas/naujienos/prakeiksmas-nutrauktas-ricardas-berankis-laimejo-trileri-prancuzijoje-338-1031026" target="_blank">
     <div class="post-img">
-      <img src="https://www.vz.lt/apps/pbcsi.dll/bilde?Site=VZ&Date=20180911&Category=ARTICLE&ArtNo=911009998&Ref=PH&Item=1&NewTbl=1&maxW=1500&AlignV=center&lastupdate=1757">
+      <img src="https://s1.15min.lt/static/cache/OTI1eDYxMCwxMDMzeDI3Myw2MTYyOTksb3JpZ2luYWwsLGlkPTM2Nzk0ODImZGF0ZT0yMDE4JTJGMDIlMkYxMSwxMjY4MTY1NzUx/ricardas-berankis-5a8036a559fe7.jpg">
     </div>
     </a>
   <div class="post-text">
-    <a href="https://www.vz.lt/verslo-aplinka/2018/09/11/sektoriu-lyderiai-2018-paskelbtos-ir-apdovanotos-9-ios-stipriausios-imones" target="_blank">
+    <a href="https://www.15min.lt/deuce/naujiena/profesionalus-sportas/naujienos/prakeiksmas-nutrauktas-ricardas-berankis-laimejo-trileri-prancuzijoje-338-1031026" target="_blank">
+      <h2>Prakeiksmas nutrauktas – Ričardas Berankis laimėjo trilerį Prancūzijoje</h2>
+      </a>
+    <p>Beveik 3 mėnesius trukusi pergalių sausra galiausiai baigėsi. Stipriausias Lietuvos tenisininkas Ričaras Berankis (ATP-103) nugalėjo beveik 50 pozicijų aukščiau reitinge esantį oponentą ir nutraukė devynių pralaimėjimų iš eilės seriją.</p>
+    <h4><i class="fa fa-globe"></i> alfa.lt</h4>
+  </div>
+</div>
+
+<hr>
+
+<div class="post-item">
+  <a href="https://www.vz.lt/technologijos-mokslas/2018/09/16/protingi-mokosi-is-svetimu-klaidu--paleista-ziniu-dalijimosi-platforma-startuoliams#ixzz5RNv8FmPz" target="_blank">
+    <div class="post-img">
+      <img src="https://www.vzinios.lt/apps/pbcsi.dll/storyimage/VZ/20180916/ARTICLE/180919639/AR/0/AR-180919639.jpg?exactW=800&AlignV=middle&imageversion=Horizontalus&lu=1152">
+    </div>
+    </a>
+  <div class="post-text">
+    <a href="https://www.vz.lt/technologijos-mokslas/2018/09/16/protingi-mokosi-is-svetimu-klaidu--paleista-ziniu-dalijimosi-platforma-startuoliams#ixzz5RNv8FmPz" target="_blank">
       <h2>
-„Sektorių lyderiai 2018“: paskelbtos ir apdovanotos 9-ios stipriausios įmonės</h2>
-      </a>
-    <p>„Verslo žinių“ konferencijoje „Verslas 2019“ paskelbti ir apdovanoti „Sektorių lyderiai 2018“, t. y. bendrovės, pirmaujančios pagal metinius veiklos rezultatus 9 verslo sektoriuose: žemės ūkio verslo, apdirbamosios pramonės, didmeninės prekybos, energetikos, maisto pramonės, mažmeninės prekybos, statybos, technologijų ir transporto.</p>
+      Protingi mokosi iš svetimų klaidų – paleista žinių dalijimosi platforma startuoliams</h2>
+    </a>
+    <p>Lietuvos startuolių bendruomenės profesionalai ir pradedantys jungiasi į platformą „Startups for Startups“, kad dalintųsi patirtimi ir nekartotų kitų startuolių jau padarytų klaidų.</p>
     <h4><i class="fa fa-globe"></i> vz.lt</h4>
   </div>
 </div>
@@ -58,21 +59,39 @@ path: "/2018-09-11/"
 <hr>
 
 <div class="post-item">
-  <a href="https://www.alfa.lt/straipsnis/50324236/grazuole-medicinos-studente-zengia-i-narva-mano-svajone-ufc" target="_blank">
+  <a href="https://www.delfi.lt/news/daily/lithuania/zada-per-trejus-metus-sulyginti-kulturos-darbuotoju-ir-mokytoju-algas.d?id=79083835" target="_blank">
     <div class="post-img">
-      <img src="https://i3.alfi.lt/32901/55/42.jpg">
+      <img src="https://g3.dcdn.lt/images/pix/880x550/y_VoI9CxzRI/kulturininku-mitingas-prie-vyriausybes-79083859.jpg">
     </div>
     </a>
   <div class="post-text">
-    <a href="https://www.alfa.lt/straipsnis/50324236/grazuole-medicinos-studente-zengia-i-narva-mano-svajone-ufc" target="_blank">
-      <h2>Gražuolė medicinos studentė žengia į narvą: mano svajonė – UFC</h2>
+    <a href="https://www.delfi.lt/news/daily/lithuania/zada-per-trejus-metus-sulyginti-kulturos-darbuotoju-ir-mokytoju-algas.d?id=79083835" target="_blank">
+      <h2>Žada per trejus metus sulyginti kultūros darbuotojų ir mokytojų algas</h2>
       </a>
-    <p>Pacientai, sužinoję, kad juos prižiūrinti 23-ejų medicinos studentė Marija Ratautaitė yra kovotoja, stebisi, kaip ši išvaizdi mergina gali vienu metu gelbėti ir mušti. Išgirdusi tokius pasakymus M. Ratautaitė nusijuokia – kova tėra kova. </p>
-    <h4><i class="fa fa-globe"></i> alfa.lt</h4>
+    <p>Pirmadienį dėl algų protestavusiems kultūros ir meno darbuotojams kultūros ministrė Liana Ruokytė-Jonsson pažadėjo sieksianti, kad jau kitais metais algos padidėtų po 75 eurus.</p>
+    <h4><i class="fa fa-globe"></i> delfi.lt</h4>
   </div>
 </div>
 
 <hr>
+
+<div class="post-item">
+  <a href="https://www.15min.lt/verslas/naujiena/finansai/lietuvos-banke-nauji-100-ir-200-euru-banknotai-662-1030592" target="_blank">
+    <div class="post-img">
+      <img src="https://s1.15min.lt/static/cache/OTI1eDYxMCwsNjE2MjA5LG9yaWdpbmFsLCxpZD0zNTM5Mjc0JmRhdGU9MjAxNyUyRjEyJTJGMDYsMjEyOTE2MDYy/lietuvos-bankas-5a27e4cb85ccb.jpg">
+    </div>
+    </a>
+  <div class="post-text">
+    <a href="https://www.15min.lt/verslas/naujiena/finansai/lietuvos-banke-nauji-100-ir-200-euru-banknotai-662-1030592" target="_blank">
+      <h2>Lietuvos banke – nauji 100 ir 200 eurų banknotai</h2>
+      </a>
+    <p>Lietuvos bankas kartu su Europos Centriniu Banku pirmadienį pademonstruos naujai išleidžiamus 100 ir 200 eurų banknotus.</p>
+    <h4><i class="fa fa-globe"></i> 15min.lt</h4>
+  </div>
+</div>
+
+<hr>
+
 
 
 

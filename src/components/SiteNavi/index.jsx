@@ -34,7 +34,7 @@ class SiteNavi extends React.Component {
                   ➕ Įkelti Naujieną
                 </Link>
               </li>
-              {/* <li
+              <li
                 className={
                   location.pathname === '/apie-projekta/'
                     ? 'nav-item active'
@@ -44,7 +44,7 @@ class SiteNavi extends React.Component {
                 <Link to="/apie-projekta/" className="nav-link">
                   ℹ️ Apie Projektą
                 </Link>
-              </li> */}
+              </li>
               {/* <li
                 className={
                   location.pathname === '/nutrition/'

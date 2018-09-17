@@ -53,7 +53,7 @@ class profile extends React.Component {
             <div className="col-lg-12 text-center">
               <img src="../img/logo.png" className="mobile-logo"></img>
             <h1 className="top-title">GerosNaujienos.lt</h1>
-            <p className="top-text">Geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną.</p>
+            <p className="top-text">Top 5 geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną.</p>
             </div>
           </div>
           </div>

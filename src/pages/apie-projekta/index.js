@@ -47,9 +47,16 @@ class circuits extends React.Component {
             },
           ]}
         />
-        <section className="text-center">
+        <section className="text-center form-section">
           <div className="container">
-            <h1>Jau greitai!</h1>
+            <div className="col-lg-8 about-col">
+            <h1 className="top-title">Apie Projektą</h1>
+            <p className="margin-top about-text">Šis internetinis puslapis buvo sukurtas norint atkreipti žmonių dėmesį tik į geras ir teigiamas dienos naujienas. Jokių kriminalų, vagysčių ar kitokių nereikšmingų nesamonių, kurias skaitytojams ir žiūrovams pateikia Lietuviški naujienų portalai bei televizija.</p>
+            <p className="about-text"><strong>Puslapis atnaujinamas kiekvieną dieną.</strong></p>
+
+            <p className="about-text">Susisiekite el.paštu <a href="mailto:info@gerosnaujienos.lt" className="link"> info@gerosnaujienos.lt</a></p>
+
+            </div>
             
           </div>
         </section>
