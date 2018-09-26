@@ -60,6 +60,8 @@ export default class HTML extends React.Component {
           <meta name="theme-color" content="#ffffff" />
 
           <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+          <meta name="google-site-verification" content="gSAhUk-bsQxUmFnsOpIfGkP23JHUgc3LtjqZGno855U" />
+          
           <script
               dangerouslySetInnerHTML={{
                 __html: `
