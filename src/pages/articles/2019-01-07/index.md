@@ -75,17 +75,17 @@ path: "/2019-01-07/"
 <hr>
 
 <div class="post-item">
-  <a href="http://alkas.lt/2019/01/07/fotografijos-muziejuje-veikia-kurybines-bromoilio-dirbtuves/" target="_blank">
+  <a href="https://www.delfi.lt/darbas/profesijos/programuotojas-siluteje-ikure-robotikos-centra-gal-jau-gana-per-technologiju-pamokas-kalti-inkilus.d?id=80008539" target="_blank">
     <div class="post-img">
-      <img src="https://alkas.lt/wp-content/uploads/2019/01/ausrosmuziejus.lt-nuotr.-e1546758484906-768x581.jpg">
+      <img src="https://g1.dcdn.lt/images/pix/880x550/NyoLaaXsmfQ/robotikos-mokykla-73153668.jpg">
     </div>
     </a>
   <div class="post-text">
-    <a href="http://alkas.lt/2019/01/07/fotografijos-muziejuje-veikia-kurybines-bromoilio-dirbtuves/" target="_blank">
-      <h2>Fotografijos muziejuje veikia kūrybinės bromoilio dirbtuvės</h2>
+    <a href="https://www.delfi.lt/darbas/profesijos/programuotojas-siluteje-ikure-robotikos-centra-gal-jau-gana-per-technologiju-pamokas-kalti-inkilus.d?id=80008539" target="_blank">
+      <h2>Programuotojas Šilutėje įkūrė robotikos centrą: gal jau gana per technologijų pamokas kalti inkilus</h2>
       </a>
-    <p>Fotografijos muziejuje (Vilniaus g. 140, Šiauliai) iki vasario 27 d. veiks kūrybinės bromoilio dirbtuvės. XIX a. pabaigoje, ankstyvajame fotografijos meno vystymosi laikotarpyje, veikė aktyvus piktorealistų judėjimas.</p>
-    <h4><i class="fa fa-globe"></i> alkas.lt</h4>
+    <p>„Klestinti, technologiškai pažangi valstybė. Šilutė – robotikos centras. Kiekvieno Lietuvos miesto mokykloje – po robotikos laboratoriją“. Tai – ne pageidavimai Kalėdų seniui ir ne politikų rinkimų pažadai.</p>
+    <h4><i class="fa fa-globe"></i> delfi.lt</h4>
   </div>
 </div>
 
