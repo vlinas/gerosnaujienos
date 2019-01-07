@@ -49,11 +49,11 @@ class squat extends React.Component {
         />
         <section className="text-center">
           <div className="container">
-            <h1>Coming Soon</h1>
+          <h1 className="top-title">Ačiū</h1>
+            <p className="margin-top about-text">Naujieną gavome. Dėkojame, jog prisidedate prie gerų naujienų platinimo Lietuvoje.</p>
           </div>
         </section>
 
-        {pageLinks}
       </div>
 
 
