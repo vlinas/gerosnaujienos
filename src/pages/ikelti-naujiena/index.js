@@ -43,7 +43,7 @@ class Home extends React.Component {
             <h1 className="top-title">Įkelti Naujieną</h1>
             <p className="text-center">Radote įdomią naujieną? <br></br> Atsiųskite ją mums užpildę formą žemiau arba el.paštu <a href="mailto:info@gerosnaujienos.lt" className="link"> info@gerosnaujienos.lt</a></p>
               <div className="naujienos-forma">
-                <form name="naujiena" method="post" data-netlify="true" action="/" netlify-honeypot="bot-field">
+                <form name="naujiena" method="post" data-netlify="true" action="/aciu" netlify-honeypot="bot-field">
                   <div class="form-group">
                     <label for="formGroupExampleInput">Vardas</label>
                     <input type="text" class="form-control" name="name" placeholder="Vardenis"></input>
