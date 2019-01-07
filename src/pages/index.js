@@ -54,12 +54,12 @@ class profile extends React.Component {
               <img src="../img/logo.png" className="mobile-logo"></img>
             <h1 className="top-title">GerosNaujienos.lt</h1>
             <p className="top-text">Top 5 geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną.</p>
-            <h1 className="">Jau Greitai</h1>
+            {/* <h1 className="">Jau Greitai</h1> */}
             </div>
           </div>
           </div>
 
-        {/* {pageLinks} */}
+        {pageLinks}
         
       </div>
     )
