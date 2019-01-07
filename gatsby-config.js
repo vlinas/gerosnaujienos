@@ -44,12 +44,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Gatstrap',
-        short_name: 'Gatstrap',
-        description: 'Gatsby starter for bootstrap a blog',
-        homepage_url: 'https://gatstrap.netlify.com',
+        name: 'GerosNaujienos.lt',
+        short_name: 'GerosNaujienos',
+        description: 'Top 5 geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną.',
+        homepage_url: 'https://gerosnaujienos.lt/',
         start_url: '/',
-        background_color: '#fff',
+        background_color: '#e2f5fe',
         theme_color: '#333',
         display: 'standalone',
         icons: [
@@ -81,6 +81,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-catch-links',
+    'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-react-next',
     'gatsby-plugin-sass',
