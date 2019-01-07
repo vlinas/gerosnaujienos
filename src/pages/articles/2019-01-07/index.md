@@ -43,7 +43,7 @@ path: "/2019-01-07/"
 <div class="post-item">
   <a href="http://kauno.diena.lt/naujienos/kaunas/menas-ir-pramogos/startuoja-kauno-menininko-rinkimai-laukiama-siulymu-895859" target="_blank">
     <div class="post-img">
-      <img src="https://img5.diena.lt/sites/default/files/styles/didele/public/Vilniausdiena/Vartotoju%20zona/kamiles/1_2_1.jpg?itok=zZw2eXAY">
+      <img src="http://img5.diena.lt/sites/default/files/styles/didele/public/Vilniausdiena/Vartotoju%20zona/kamiles/1_2_1.jpg?itok=zZw2eXAY">
     </div>
     </a>
   <div class="post-text">
@@ -58,17 +58,17 @@ path: "/2019-01-07/"
 <hr>
 
 <div class="post-item">
-  <a href="http://www.bernardinai.lt/straipsnis/2019-01-07-apie-stasi-eidrigeviciu-ir-panevezio-miesta/173703" target="_blank">
+  <a href="https://www.alfa.lt/straipsnis/50358841/pasauli-uzkariaujanti-rauginto-maisto-tendencija-atkeliauja-i-lietuva" target="_blank">
     <div class="post-img">
-      <img src="https://media.bernardinai.lt/o/8a6e2ac31576540cd2dec2c2304c5b8368e9f606_article_scale.png">
+      <img src="https://i2.alfi.lt/33110/90/38.jpg">
     </div>
     </a>
   <div class="post-text">
-    <a href="http://www.bernardinai.lt/straipsnis/2019-01-07-apie-stasi-eidrigeviciu-ir-panevezio-miesta/173703" target="_blank">
-      <h2>APIE STASĮ EIDRIGEVIČIŲ IR PANEVĖŽIO MIESTĄ</h2>
+    <a href="https://www.alfa.lt/straipsnis/50358841/pasauli-uzkariaujanti-rauginto-maisto-tendencija-atkeliauja-i-lietuva" target="_blank">
+      <h2>Pasaulį užkariaujanti rauginto maisto tendencija atkeliauja į Lietuvą</h2>
       </a>
-    <p>Panevėžio mieste plėtojamas Stasio Eidrigevičiaus menų centras neliko nepastebėtas šalies ir tarptautiniame žiniasklaidos aruode.</p>
-    <h4><i class="fa fa-globe"></i> bernardinai.lt</h4>
+    <p>Maisto tendencijų prognozuotojai ir stebėtojai vieningai sutaria, kad rauginimas – tai viena ryškiausių 2019 m. maisto sektoriaus tendencijų. Ši mada pamažu atkeliauja ir į Lietuvą, tačiau, pasak rauginimo specialistės ir knygos „Natūralus rauginimas“ autorės Ievos Šidlaitės.</p>
+    <h4><i class="fa fa-globe"></i> alfa.lt</h4>
   </div>
 </div>
 
