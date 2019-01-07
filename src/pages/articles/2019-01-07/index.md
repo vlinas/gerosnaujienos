@@ -43,7 +43,7 @@ path: "/2019-01-07/"
 <div class="post-item">
   <a href="http://kauno.diena.lt/naujienos/kaunas/menas-ir-pramogos/startuoja-kauno-menininko-rinkimai-laukiama-siulymu-895859" target="_blank">
     <div class="post-img">
-      <img src="http://img5.diena.lt/sites/default/files/styles/didele/public/Vilniausdiena/Vartotoju%20zona/kamiles/1_2_1.jpg?itok=zZw2eXAY">
+      <img src="https://img5.diena.lt/sites/default/files/styles/didele/public/Vilniausdiena/Vartotoju%20zona/kamiles/1_2_1.jpg?itok=zZw2eXAY">
     </div>
     </a>
   <div class="post-text">
@@ -60,7 +60,7 @@ path: "/2019-01-07/"
 <div class="post-item">
   <a href="http://www.bernardinai.lt/straipsnis/2019-01-07-apie-stasi-eidrigeviciu-ir-panevezio-miesta/173703" target="_blank">
     <div class="post-img">
-      <img src="http://media.bernardinai.lt/o/8a6e2ac31576540cd2dec2c2304c5b8368e9f606_article_scale.png">
+      <img src="https://media.bernardinai.lt/o/8a6e2ac31576540cd2dec2c2304c5b8368e9f606_article_scale.png">
     </div>
     </a>
   <div class="post-text">
@@ -77,7 +77,7 @@ path: "/2019-01-07/"
 <div class="post-item">
   <a href="http://alkas.lt/2019/01/07/fotografijos-muziejuje-veikia-kurybines-bromoilio-dirbtuves/" target="_blank">
     <div class="post-img">
-      <img src="http://alkas.lt/wp-content/uploads/2019/01/ausrosmuziejus.lt-nuotr.-e1546758484906-768x581.jpg">
+      <img src="https://alkas.lt/wp-content/uploads/2019/01/ausrosmuziejus.lt-nuotr.-e1546758484906-768x581.jpg">
     </div>
     </a>
   <div class="post-text">
