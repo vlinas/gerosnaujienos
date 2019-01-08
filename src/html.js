@@ -60,6 +60,8 @@ export default class HTML extends React.Component {
           <meta name="theme-color" content="#ffffff" />
 
           <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+          <script src="//cdn.jsdelivr.net/npm/@microlink/vanilla@latest/umd/microlink.min.js"></script>
+
           <meta name="google-site-verification" content="gSAhUk-bsQxUmFnsOpIfGkP23JHUgc3LtjqZGno855U" />
           
           <script
@@ -74,6 +76,7 @@ export default class HTML extends React.Component {
                     `,
               }}
             />
+
         </head>
         <body>
           <div

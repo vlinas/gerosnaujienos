@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import sortBy from 'lodash/sortBy'
 import Helmet from 'react-helmet'
 import LazyLoad from 'react-lazyload'
+import MicrolinkCard from '@microlink/react'
 
 import SitePost from '../../components/SitePost'
 
@@ -50,6 +51,12 @@ class testPage extends React.Component {
         <section className="text-center">
           <div className="container">
           <h1 className="top-title">Test</h1>
+          // Just provide a URL to create a card yooo
+            <MicrolinkCard
+              url='https://www.theverge.com/tldr/2018/2/7/16984284/tesla-space-falcon-heavy-launch-elon-musk'
+            />
+
+            {pageLinks}
           </div>
         </section>
 
@@ -61,3 +68,31 @@ class testPage extends React.Component {
 }
 
 export default testPage
+
+export const PageQuery = graphql`
+  query TestIndexQuery {
+    site {
+      siteMetadata {
+        title
+        description
+        url: siteUrl
+        author
+        twitter
+        adsense
+      }
+    }
+    remark: allMarkdownRemark {
+      posts: edges {
+        post: node {
+          html
+          frontmatter {
+            layout
+            title
+            path
+            date(formatString: "YYYY/MM/DD")
+          }
+        }
+      }
+    }
+  }
+`

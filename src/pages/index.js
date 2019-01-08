@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import sortBy from 'lodash/sortBy'
 import Helmet from 'react-helmet'
 import LazyLoad from 'react-lazyload'
+import MicrolinkCard from '@microlink/react'
 
 import SitePost from '../components/SitePost'
 
@@ -54,6 +55,7 @@ class profile extends React.Component {
               <img src="../img/logo.png" className="mobile-logo"></img>
             <h1 className="top-title">GerosNaujienos.lt</h1>
             <p className="top-text">Top 5 geriausios dienos naujienos Lietuvoje. Atnaujinama kiekvieną dieną.</p>
+            
             {/* <h1 className="">Jau Greitai</h1> */}
             </div>
           </div>
