@@ -59,8 +59,7 @@ export default class HTML extends React.Component {
           <meta name="msapplication-TileImage" content="/img/fav/ms-icon-144x144.png" />
           <meta name="theme-color" content="#ffffff" />
 
-          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-          <script src="//cdn.jsdelivr.net/npm/@microlink/vanilla@latest/umd/microlink.min.js"></script>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" />
 
           <meta name="google-site-verification" content="gSAhUk-bsQxUmFnsOpIfGkP23JHUgc3LtjqZGno855U" />
           
@@ -83,7 +82,21 @@ export default class HTML extends React.Component {
             id="___gatsby"
             dangerouslySetInnerHTML={{ __html: this.props.body }}
           />
+
           {this.props.postBodyComponents}
+
+          <script src="https://cdn.jsdelivr.net/npm/@microlink/vanilla@latest/umd/microlink.min.js" />
+
+          <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  microlink('.link-preview')
+                  microlink('.card-preview')
+                  console.log('yoooooooooooo')
+                    `,
+              }}
+        />
+
         </body>
       </html>
     )

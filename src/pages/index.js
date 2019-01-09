@@ -4,7 +4,6 @@ import get from 'lodash/get'
 import sortBy from 'lodash/sortBy'
 import Helmet from 'react-helmet'
 import LazyLoad from 'react-lazyload'
-import MicrolinkCard from '@microlink/react'
 
 import SitePost from '../components/SitePost'
 

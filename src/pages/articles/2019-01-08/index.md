@@ -5,7 +5,6 @@ layout: post
 path: "/2019-01-08/"
 ---
 
-
 <div class="post-item">
   <a href="https://m.delfi.lt/miestai/kaunas/article.php?id=80044681" target="_blank">
     <div class="post-img">
