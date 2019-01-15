@@ -5,7 +5,6 @@ layout: post
 path: "/2019-01-15/"
 ---
 
-
 <div class="post-item">
    <a href='https://www.alfa.lt/straipsnis/50273578/apie-sumautas-vertybes-istrauka-is-bestselerio-subtilus-menas-nekrusti-sau-ir-kitiems-proto?fbclid=IwAR0d_rf7VyGlpwGHPcgy7Jjh1k7Kpsd6Iu1rUXWas7YEgXwrOx9VySPgPHE' target="_blank" class="mcl"></a>
 </div>
@@ -29,14 +28,6 @@ path: "/2019-01-15/"
 </div>
 
 <hr>
-
-<div class="post-item">
-   <a href='http://www.bernardinai.lt/straipsnis/2019-01-15-visa-tiesa-apie-kauno-gatviu-katinelius/173836' target="_blank" class="mcl"></a>
-</div>
-
-<hr>
-
-
 
 
 
