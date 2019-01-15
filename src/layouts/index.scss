@@ -1,3 +1,46 @@
+.microlink_card {
+    width: 100%;
+    max-width: none;
+    max-height: 150px;
+    border: none;
+}
+
+.microlink_card:hover {
+    background: #f7fdff;
+}
+
+.microlink_card__media {
+    flex: 0 0 200px !important;
+}
+
+.microlink_card__content_title p {
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 35px;
+    font-family: Montserratt, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+
+// .microlink_card__content_title {
+//     height: 10px;
+// }
+
+.microlink_card__content_description p {
+    font-family: Montserratt, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+    font-size: 17px !important;
+    font-weight: 400 !important;
+    color: #7b7b7b !important;
+}
+
+.microlink_card__content_url p {
+    font-style: italic !important;
+    font-weight: 400 !important;
+    color: #9ab7c5 !important;
+}
+
+.articles .article-wrap .page-content .microlink_card p {
+    margin: 0 !important;
+}
+
 .menu-bg {
     background-color: white;
     border-bottom: 1px solid #eceff1;
@@ -282,6 +325,21 @@ body {
 
 
 @media only screen and (max-width: 480px) {
+
+    .microlink_card {
+        width: 100%;
+        max-width: none;
+        max-height: 80px;
+        border: none;
+    }
+
+    .microlink_card__content {
+        padding-left: 0px;
+    }
+
+    .microlink_card__media {
+        flex: 0 0 80px !important;
+    }
 
     .articles .article-wrap .page-header h1 {
         font-size: 22px;

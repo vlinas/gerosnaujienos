@@ -55,8 +55,7 @@ class testPage extends React.Component {
           <div className="container">
           <h1 className="top-title">Test</h1>
 
-          <a href='https://www.theverge.com/2017/11/16/16667366/tesla-semi-truck-announced-price-release-date-electric-self-driving' className='link-preview'>asdf</a>
-          <a href='https://www.theverge.com/2017/11/16/16667366/tesla-semi-truck-announced-price-release-date-electric-self-driving' className='card-preview'>asdf</a>
+          <a href='https://www.theverge.com/2017/11/16/16667366/tesla-semi-truck-announced-price-release-date-electric-self-driving' className="mcl" target="_blank">MC</a>
 
             {pageLinks}
           </div>

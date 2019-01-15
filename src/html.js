@@ -62,6 +62,7 @@ export default class HTML extends React.Component {
           <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" />
 
           <meta name="google-site-verification" content="gSAhUk-bsQxUmFnsOpIfGkP23JHUgc3LtjqZGno855U" />
+          <script type="text/javascript" src="//unpkg.com/microlinkjs@latest/umd/microlink.min.js"></script>
           
           <script
               dangerouslySetInnerHTML={{
@@ -85,17 +86,18 @@ export default class HTML extends React.Component {
 
           {this.props.postBodyComponents}
 
-          <script src="https://cdn.jsdelivr.net/npm/@microlink/vanilla@latest/umd/microlink.min.js" />
-
           <script
               dangerouslySetInnerHTML={{
                 __html: `
-                  microlink('.link-preview')
-                  microlink('.card-preview')
-                  console.log('yoooooooooooo')
+                document.addEventListener('DOMContentLoaded', function (event) {
+                microlink('.mcl', { 
+                  reverse: true
+                })
+                })
                     `,
               }}
-        />
+            /> 
+          
 
         </body>
       </html>
