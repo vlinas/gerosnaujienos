@@ -62,7 +62,7 @@ export default class HTML extends React.Component {
           <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" />
 
           <meta name="google-site-verification" content="gSAhUk-bsQxUmFnsOpIfGkP23JHUgc3LtjqZGno855U" />
-          <script type="text/javascript" src="//unpkg.com/microlinkjs@latest/umd/microlink.min.js"></script>
+          <script type="text/javascript" src="https://unpkg.com/microlinkjs@latest/umd/microlink.min.js"></script>
           
           <script
               dangerouslySetInnerHTML={{
