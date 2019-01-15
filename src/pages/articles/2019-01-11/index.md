@@ -78,7 +78,7 @@ path: "/2019-01-11/"
 <div class="post-item">
   <a href="http://www.regionunaujienos.lt/vilniaus-senjorams-padovanota-per-8-tukst-kavos-puodeliu/" target="_blank">
     <div class="post-img">
-      <img src="http://www.regionunaujienos.lt/wp-content/uploads/2019/01/vms_5640-e1547150859961.jpg">
+      <img src="https://www.regionunaujienos.lt/wp-content/uploads/2019/01/vms_5640-e1547150859961.jpg">
     </div>
     </a>
   <div class="post-text">
