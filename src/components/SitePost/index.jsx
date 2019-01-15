@@ -61,7 +61,7 @@ class SitePost extends React.Component {
     )
 
     return (
-      <div className="container">
+      <div className="container post-cont">
         <div className="articles col-md-12">
           <div className="article-wrap" key={path}>
             <div className="page-header">

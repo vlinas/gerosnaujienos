@@ -334,8 +334,17 @@ body {
         border: none;
     }
 
-    .microlink_card__content {
+    .articles .article-wrap {
+        padding: 15px;
+    }
+
+    .post-cont {
         padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .microlink_card__content {
+        padding-left: 0px !important;
     }
 
     .microlink_card__media {
