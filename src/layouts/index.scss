@@ -2,7 +2,8 @@
     width: 100%;
     max-width: none;
     max-height: 150px;
-    border: none;
+    border: none !important;
+    max-width: 760px !important;
 }
 
 .microlink_card:hover {
