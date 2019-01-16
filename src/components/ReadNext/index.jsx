@@ -15,7 +15,7 @@ class ReadNext extends React.Component {
         <p>
           <Link to="/">
             <br />
-            ← Back
+            ← Atgal
           </Link>
         </p>
       </div>
